@@ -1,7 +1,7 @@
 PARA LOS PJS:
 
 - Cómo se acercan? Hacen ruido? Entran de dia, de noche?
-- Anillo de llaves: Azul, departamento. Verde, puerta cabaña, roja, escotilla de la fosa septica. Tiene marca de unos candados de grado militar, de tungsteno reforzado y llaves de copia unica, con patrones complejos, irreproducibles. Alguno con conocimiento militar la reconoce. 
+- Anillo de llaves: **Azul**, (*departamento*). Verde, **puerta** (cabaña), **roja**, (escotilla de la fosa septica). Tiene marca de unos candados de grado militar, de tungsteno reforzado y llaves de copia unica, con patrones complejos, irreproducibles. Alguno con conocimiento militar la reconoce. 
 
 
 La dirección de Baughman corresponde a un edificio de departamentos discreto, en un barrio obrero en decadencia. El edificio es un ejemplo chocante del diseño de principios de los años sesenta: tosco y apagado. Nadie presta atención a un pequeño grupo de Agentes razonablemente cautelosos que entra al edificio o al departamento de Baughman. No hay cámaras de vigilancia en los alrededores.
