@@ -23,10 +23,21 @@ A la tarde siguiente, a las 14:00, los Agentes se reúnen con su oficial de cont
 
 El handler es una hombre con una pelada incipiente, que ya han visto un par de veces cuando tocan misiones de bajo nivel. Es nervioso, y perpetuamente con mocos, pero serio y al punto. su trabajo es actuar como intermediario entre los Agentes y Delta Green, y proporciona apoyo logístico, pero nunca se une a las operaciones de los Agentes.
 
+Se presenta, Agente Bayer (alias). Les pide los nombres, una breve introduccion, si alguno es soldado lo agradece por su servicio y pregunta con curiosidad en que tour sirvió.
+
+Les indica que es una mision de limpieza, de un agente, un ex agente mejor dicho, que feneció recientemente. 
+
+Fue un friendly de delta green hasta bien avanzados los 90s, y luego logro lo que muy pocos: Retiro. La mayor parte de sus misiones fueron durante los 60s y los 70s, (hojea una carpeta manila fuertemente censurada). La misión es una simple, voy a ir por mi lista asi no me pierdo nada. 
+
 El oficial de control da a los Agentes las siguientes instrucciones:
 
-»» Procedan a la residencia de Clyde Baughman.  
-»» Eliminen cualquier evidencia de las actividades de Delta Green.  
+»» El sujeto es Clyde Baughman (B A U G H M A N) 
+»» Procedan a la residencia de Clyde Baughman.  (tiene un depto en el East village, east 10th)
+»» Eliminen cualquier evidencia de las actividades de Delta Green. (No incluyan a ninguna persona extra en la operación, yo soy como es estandar su unico nexo con la operación)
+»» Si ha violado cualquier protocolo de seguridad delta lo reportan a MI. 
+
+»» Nos vamos a volver a ver aqui el... (chequea reloj) domingo a las 2 pm, lo cual nos da mas o menos 48hs para concluir la operación. Dicho eso...
+
 »» Se espera la llegada de los herederos de Baughman dentro de 48 horas. Asegúrense de que todo esté limpio para entonces.  
 »» No involucren a nadie más en esta operación.  
 »» Reúnanse en la misma sala de conferencias dentro de 48 horas con un informe.  
@@ -34,3 +45,4 @@ El oficial de control da a los Agentes las siguientes instrucciones:
 
 El oficial de control entrega a los Agentes un expediente preliminar sobre Baughman (ENTREGAR HANDOUT EYES ONLY) y una llave del departamento de Baughman.
 
+"Baughman no trabajo mucho con dg despues de la muerte de su esposa volviendose gradualmente mas un friendly que un agente. No trabajamos mucho con el despues de finales de los 80. Sus ultimos contactos fueron con otros agentes aqui en NY durante mediados y fines de los 90s."
