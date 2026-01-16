@@ -1,3 +1,0 @@
-De acuerdo con las órdenes de Delta Green, los investigadores deben eliminar cualquier evidencia de la participación de Clyde Baughman con la organización. Queda a su criterio si desean destruir esos rastros, organizar su entrega a un equipo de recolección de Delta Green en un aeropuerto cercano o en una base militar, o esconderlos en algún lugar privado sin informar a su oficial de control. Mientras nada en el departamento o la cabaña de Baughman pueda revelar su trabajo con Delta Green, el grupo quedará satisfecho.
-
-Si un Agente regresa gravemente herido o padeciendo una nueva locura, eso puede tener efectos desagradables en su carrera y en su familia. Puedes resolverlo en escenas “En casa” antes de la siguiente misión.
