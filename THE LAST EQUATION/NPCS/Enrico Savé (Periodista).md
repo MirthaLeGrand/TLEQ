@@ -1,0 +1,9 @@
+Ha sido el rostro de las noticias del norte de Nueva Jersey durante una década y media. **Es en parte mexicano y en parte francés, y posee el atractivo clásico de una estrella de cine de los años 50 en decadencia.** Es **ruidoso, abrasivo y tenaz.** Siempre está ansioso por perseguir cualquier pista, de día o de noche, para hacer que el noticiero de las seis sea memorable.
+
+Savé será la principal espina clavada en la investigación de Delta Green sobre el asesinato-suicidio de Wei. Como muchos han descubierto antes, **Savé es extremadamente eficaz en la manipulación emocional y social.** Dondequiera que vayan los Agentes, es probable que Savé esté allí o que ya haya pasado por el lugar. Rápidamente se vuelve evidente que Savé está demasiado bien informado como para no tener a alguien dentro de la investigación.
+
+**Savé también tiene la inquietante capacidad de estar en tres lugares a la vez**. Su productor, **Charlie “Chip” O’Connell**, y el camarógrafo **Armand Grant** suelen operar de forma independiente, siguiendo pistas y llevando a Savé rápidamente a los puntos de interés. **Los tres están en contacto constante por teléfono y mensajes de texto.** Para evitar a Savé, no basta con saber dónde está él: **hay que tener ubicados a los tres.**
+
+**Savé ya ha realizado una investigación de antecedentes exhaustiva sobre Wei y los Ridgeway. Cree que todo se trata simplemente del acto de una mente perturbada y quiere imágenes “espontáneas” de los agentes federales para darle color a la historia.** 
+
+>Si los Agentes no son cuidadosos, podría darse cuenta de que hay mucho más detrás de todo esto.
