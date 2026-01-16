@@ -1,0 +1,9 @@
+Es un oficial de carrera, nombrado recientemente jefe del diminuto Departamento de Policía de [[ALLIANCE, NEW JERSEY|Alliance]]. Está ansioso por pasar la investigación del mayor crimen en la historia de Alliance al FBI o a la Policía Estatal de Nueva Jersey. **No quiere tener nada que ver con el caso —aunque jamás lo diría en voz alta—**. Weeks tiene formación en investigaciones, pero ofrece poca ayuda y suele remitirse a sus subordinados y al FBI.
+
+Weeks es un h**ombre caucásico de 41 años, alto y delgado, con un abdomen extrañamente prominente**. Cuando trata cualquier asunto relacionado con la investigación, muestra una **expresión de confusión constante**; ese tipo de cosas, según él, son trabajo de sus oficiales. **Solo frente a grandes multitudes o cámaras sale a la luz la razón de su éxito: tiene facilidad de palabra. Es autocrítico, gracioso, y sabe exactamente qué decir y cuándo decirlo.**
+
+Weeks es un hombre de familia con dos hijos, y su esposa, Emily, tiene fama de ser bastante combativa. Desde hace aproximadamente un año y medio, Weeks mantiene discretamente —no tan discretamente— una relación con una camarera de Alliance, **Cicely Brown**, de 25 años. Este escándalo lleva meses a fuego lento y podría estallar en cualquier momento.
+
+> **Su mayor preocupación es conservar su puesto**. Quiere mantenerse lo suficientemente cerca como para saber qué está pasando (y quizá **atribuirse algo de crédito**), pero lo bastante lejos como para poder señalar con el dedo si las cosas salen mal.
+
+El Agente Especial Canor es lo bastante astuto como para incluir a Weeks en los eventos de prensa y presentarlo de forma positiva. Eso convierte a **Weeks en una marioneta de Canor en casi todos los sentidos.**

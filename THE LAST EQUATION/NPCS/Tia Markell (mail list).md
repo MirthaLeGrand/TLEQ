@@ -1,0 +1,1 @@
+Tiroteo de escuela potencial, tras ser expuesta. 
