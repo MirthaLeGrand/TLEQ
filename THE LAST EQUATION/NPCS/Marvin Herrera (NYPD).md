@@ -1,0 +1,5 @@
+Un veterano de 19 años del NYPD con un historial intachable. Es **completamente inocente** de cualquier delito, aunque al principio puede parecer que robó la escopeta o la vendió por su cuenta. Herrera está convencido de su propia inocencia, por lo que su reacción ante cualquier acusación puede ser **más acalorada de lo que los Agentes esperan**.
+ 
+Herrera afirma una ignorancia total (y veraz) sobre la desaparición del arma, y en un primer momento sostiene que **nunca dejó las cajas sin vigilancia** sin relevarse con otro oficial. Poco después se corrige y explica que **sí se alejó brevemente** cuando un patrullero atropelló a un perro pequeño en la salida este del estacionamiento. El perro, que se había escapado de su dueño, murió en la intersección, y varios oficiales se acercaron a ver qué había ocurrido.
+
+> En cuanto Herrera comprende que los Agentes creen que un arma homicida formaba parte del lote que él debía vigilar, **exige la presencia de un abogado del sindicato** en cada entrevista, para asegurarse de no quedar expuesto a un proceso penal o a una demanda civil.
