@@ -1,0 +1,11 @@
+Es el hombre de confianza de Canor. Es joven y ambicioso, y está ascendiendo rápidamente en la oficina de Garret Mountain. Admira a [[Aiden Canor - VET. FBI (Depto. New Jersey)|Canor]], pero también codicia su puesto. Todos en Garret Mountain saben que Gant va por la vía rápida.
+
+**Gant es caucásico, bajo y fornido, de cabello oscuro, con apenas 31 años. Sus ojos, de un verde intenso, están demasiado juntos, lo que a primera vista lo hace parecer tonto.** No lo es en absoluto. Viste copias exactas del mismo traje todos los días **—siempre gris carbón—** acompañadas **por un par de anteojos de sol polarizados**. Proyecta una sensación de rutina cuidadosamente controlada.
+
+Gant tiene una **familia muy unida**, con muchos hermanos, sobrinos y sobrinas. Lleva tiempo buscando una pareja estable, pero está un poco fuera de práctica. Esto se vuelve evidente cada vez que trata con una mujer de su misma edad: su actitud sombría se transforma de inmediato en una jovialidad exagerada.
+
+Gant se graduó en Quantico hace seis años y todavía está relativamente verde. Fue una maravilla como estudiante y aún es recordado por los instructores de la academia, algunos de los cuales son operativos de Delta Green.
+
+Gant es **profundamente religioso (ortodoxo griego)** y cree en cosas invisibles. **Solo hay una cosa que le desagrada de Canor: su falta de fe en cualquier religión. El padre de Gant solía decir: “Nunca confíes en un hombre sin religión”, y hasta cierto punto esa desconfianza se hace evidente en la relación de Gant con su supervisor. Gant nunca terminó de congeniar con Canor tanto como Canor congenió con él.**
+
+Incorporar a Gant a Delta Green es una opción viable, especialmente si los Agentes se le acercan a través de operativos de Delta Green en Quantico que alguna vez fueron sus profesores. Si es expuesto a la conspiración de ese modo (o, más probablemente, al hecho de que el gobierno tiene un brazo dedicado a la investigación de lo sobrenatural), Gant hará cualquier cosa por formar parte de ella.
