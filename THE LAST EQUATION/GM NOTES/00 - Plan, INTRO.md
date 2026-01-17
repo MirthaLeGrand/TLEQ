@@ -39,3 +39,4 @@ Los que son del FBI son asignados directamente un nuevo caso, y se les da un tic
 - Permitirles conducir la investigación. Mostrarles la escopeta y los numeros en la ruta. 
 - Dejarlos que tomen las riendas
 - 
+
