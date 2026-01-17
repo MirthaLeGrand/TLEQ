@@ -6,6 +6,6 @@
 
 - Cuatro horas después, **Wei salió de la ciudad de Nueva York rumbo a Teaneck, Nueva Jersey**, y compró munición para una escopeta robada. Luego condujo 10 km hasta Alliance, Nueva Jersey. A las 2:28:13 p. m., ingresó a la casa de Dinah y Malcolm Ridgeway y de sus seis hijos.
 
-- Masacra a la familia Ridgeway uno por uno. Persiguió al último, **Michael Ridgeway**, de 18 años, hasta la Ruta Seis y le disparó por la espalda frente a testigos.
+- Masacra a la familia Ridgeway uno por uno. Persiguió al último, **Michael Ridgeway**, de 18 años, hasta la **Ruta Seis** y le disparó por la espalda frente a testigos.
 
 - Antes de que llegara la policía, Wei pintó con aerosol una secuencia numérica sobre el pavimento, mientras los testigos, comprensiblemente, mantenían distancia. Luego se disparó en la cara con la escopeta, volándose casi toda la cabeza de un solo tiro. Cuando la policía arribó, se encontraron con un asesinato-suicidio 

@@ -4,9 +4,13 @@
 --- 
 ## Universidad de Columbia
 
-La **Universidad de Columbia** es una institución de la Ivy League ubicada en **Morningside Heights**, en el **Upper West Side de Manhattan**. Wei cursaba como estudiante de posgrado el programa de **Física Aplicada y Matemática Aplicada**. Según todos los testimonios, fue un estudiante ejemplar.
+La **Universidad de Columbia** es una institución de la Ivy League ubicada en **Morningside Heights**, en el **Upper West Side de Manhattan**. 
 
-La universidad se muestra **extremadamente colaboradora** con el personal de las fuerzas del orden, entregando sin reparos toda la información que poseen sobre Wei. A los Agentes se les asigna una funcionaria de información pública. **[[Sandy Beema (U. of Columbia)]]**, una mujer de alrededor de 40 y tantos años, es responsable de controlar el daño mediático que Michael Wei representa para la institución. Hace todo lo posible por presentar a Wei como un individuo problemático, con enfermedad mental, que simplemente “se quebró”. Rechaza con firmeza cualquier insinuación de que el trabajo de Wei en matemáticas dentro de la universidad haya sido responsable de su estado.
+> Wei cursaba como estudiante de posgrado el programa de **Física Aplicada y Matemática Aplicada**. Según todos los testimonios, fue un estudiante ejemplar.
+
+La universidad se muestra **extremadamente colaboradora** con el personal de las fuerzas del orden, entregando sin reparos toda la información que poseen sobre Wei. A los Agentes se les asigna una funcionaria de información pública.
+
+>**[[Sandy Beema (U. of Columbia)]]**, una mujer de alrededor de 40 y tantos años, es responsable de controlar el daño mediático que Michael Wei representa para la institución. Hace todo lo posible por presentar a Wei como un individuo problemático, con enfermedad mental, que simplemente “se quebró”. Rechaza con firmeza cualquier insinuación de que el trabajo de Wei en matemáticas dentro de la universidad haya sido responsable de su estado.
 
 Por lo demás, Beema es un recurso excelente: acompaña a cualquier persona con las credenciales policiales o federales adecuadas a cualquier sector del campus, y concede acceso al **dormitorio de Wei** y a su **correo electrónico universitario**.
 
@@ -38,9 +42,11 @@ El último correo electrónico de Wei fue enviado la **mañana de los asesinatos
 
 ## Los papeles de Wei
 
-Los papeles son de especial interés. Los que están arriba de la pila son los más recientes y están cubiertos por una maraña de números complejos. Las ecuaciones parecen resolverse en una cadena de números: **10.12, 921, 40.796901 y –73.968158**. Representan la **fecha y hora** (12 de octubre, 9:21 A.M.) del robo de la escopeta por parte de Wei, y la **latitud y longitud** del edificio del **Precinto 24** (40.796901, –73.968158).
+#### IMPORTANTE
+> Los papeles son de especial interés. Los que están arriba de la pila son los más recientes y están cubiertos por una maraña de números complejos. Las ecuaciones parecen resolverse en una cadena de números: **10.12, 921, 40.796901 y –73.968158**. Representan la **fecha y hora** (12 de octubre, 9:21 A.M.) del robo de la escopeta por parte de Wei, y la **latitud y longitud** del edificio del **Precinto 24** (40.796901, –73.968158).
 
-Cualquiera que relacione esto con el video del Precinto 24 debe realizar una **tirada de Cordura**. Fallar implica perder **1D4 SAN** por el horror del **poder predictivo** de la ecuación.
+#### ROLL
+> Cualquiera que relacione esto con el video del Precinto 24 debe realizar una **tirada de Cordura**. Fallar implica perder **1D4 SAN** por el horror del **poder predictivo** de la ecuación.
 
 Además, cada Agente con **Ciencia (Matemáticas) 20% o más** debe hacer una **tirada de Suerte**. Si tiene éxito, el Agente pierde **1D4 SAN**, a medida que las ramificaciones adicionales de los efectos de la ecuación se asientan. A partir de ese momento, cada vez que ese Agente esté expuesto a la ecuación, a la secuencia numérica o a números generados por ella, debe hacer otra tirada de Suerte o perder **1D4 SAN** adicional. Un personaje que alcance su **Punto de Quiebre** cae bajo la influencia de la ecuación. (Ver **[[LA SOLUCIÓN DE LAQUEUS]]**, página 85).
 
@@ -50,7 +56,7 @@ Además, cada Agente con **Ciencia (Matemáticas) 20% o más** debe hacer una **
 
 **GRAN SAN ENCOUNTER, USAR  A TODA COSTA**
 
-Un fajo de páginas manchadas de café y comida, sujetas con un **broche naranja**, está escondido debajo del futón de Wei. Se trata de una traducción al inglés, **fotocopiada y profusamente anotada**, de _Libri Plures Admiratio_ (“**El Libro de Muchas Maravillas**”).
+> Un fajo de páginas manchadas de café y comida, sujetas con un **broche naranja**, está escondido debajo del futón de Wei. Se trata de una traducción al inglés, **fotocopiada y profusamente anotada**, de _Libri Plures Admiratio_ (“**El Libro de Muchas Maravillas**”).
 
 El interés de Wei por **Fascius Claudan** comenzó como una simple curiosidad por métodos de cifrado y compresión interesantes y esotéricos. Esperaba que algún truco antiguo pudiera servir para su algoritmo de primos de Mersenne o, al menos, señalar el camino hacia una solución.
 
@@ -64,7 +70,8 @@ Cualquiera con **Ciencia (Matemáticas) 20% o más** que estudie la fotocopia qu
 
 El libro fotocopiado está cubierto de **notas manuscritas**, algunas coherentes y otras no. La **secuencia numérica mortal** cubre la última página con un garabato violento. Parece que el marcador usado para escribirla **se rompió durante el trazo**.
 
-Las notas al margen, escritas de puño y letra por Wei, incluyen elementos perturbadores. Descifrar estos garabatos requiere una tirada exitosa de **Ciencia (Matemáticas)**. Si tiene éxito, el Agente que lee el manuscrito se da cuenta de que Wei **predijo el momento exacto** en que el Agente encontraría el libro y leería esa anotación, así como el **número de Seguro Social**, la **edad**, y la **latitud y longitud** del domicilio del Agente. Al final de la ecuación hay incluso un garabato que dice: **“¡Hola!”**  
+
+> Las notas al margen, escritas de puño y letra por Wei, incluyen elementos perturbadores. Descifrar estos garabatos requiere una tirada exitosa de **Ciencia (Matemáticas)**. Si tiene éxito, el Agente que lee el manuscrito se da cuenta de que Wei **predijo el momento exacto** en que el Agente encontraría el libro y leería esa anotación, así como el **número de Seguro Social**, la **edad**, y la **latitud y longitud** del domicilio del Agente. Al final de la ecuación hay incluso un garabato que dice: **“¡Hola!”**  
 Esto cuesta **1/1D4 SAN**.
 
 Si el oficial de enlace o contacto de Delta Green se entera de la existencia de este manuscrito, **ordena de inmediato su destrucción**, así como un informe detallado de quiénes lo han leído o lo están leyendo. Si descubren que un Agente ha pasado un tiempo significativo con el manuscrito, los otros Agentes reciben la orden de **vigilar cuidadosamente** a ese lector.
@@ -99,7 +106,7 @@ Es un grupo pequeño y con actividad esporádica, normalmente con ráfagas de co
 
 > El último mensaje fue el de **Michael Wei**, con la solución completa de la Ecuación de Laqueus, el **12 de octubre a las 6:41 A.M.** Nadie ha respondido aún.
 
-El moderador es **Julio Kimbrel, Ph.D.**, profesor de matemáticas en **Alfred University**, enZ el norte del estado de Nueva York. Coopera plenamente con las fuerzas del orden. Por suerte, **no ha leído** la solución de Laqueus. Pero podría hacerlo, especialmente si los Agentes sugieren que está relacionada con los asesinatos en Nueva Jersey.
+> El moderador es **Julio Kimbrel, Ph.D.**, profesor de matemáticas en **Alfred University**, enZ el norte del estado de Nueva York. Coopera plenamente con las fuerzas del orden. Por suerte, **no ha leído** la solución de Laqueus. Pero podría hacerlo, especialmente si los Agentes sugieren que está relacionada con los asesinatos en Nueva Jersey.
 
 La lista incluye a:
 
@@ -137,8 +144,8 @@ Si preguntan a Delta Green por los extranjeros en [mathgeeks@listbrain.com](mail
 ---
 
 ## El último correo de Wei
-
-La solución de la Ecuación de Laqueus, enviada a la lista el **12 de octubre a las 6:41 A.M.**, es tan elegante como perturbadora. Para quienes no tienen formación matemática, es indescifrable. Para quienes poseen un nivel significativo de **Ciencia (Matemáticas)**, la ecuación es **una trampa**.
+#### DETALLE IMPORTANTE
+> La solución de la Ecuación de Laqueus, enviada a la lista el **12 de octubre a las 6:41 A.M.**, es tan elegante como perturbadora. Para quienes no tienen formación matemática, es indescifrable. Para quienes poseen un nivel significativo de **Ciencia (Matemáticas)**, la ecuación es **una trampa**.
 
 Los matemáticos podrían describirla como una **“llave”** que revela una cadena de **números primos**. Estos números —“desbloqueados” en secuencia— muestran primos enormes y previamente desconocidos. A su vez, esos primos revelan **estructuras matemáticas extrañas** que se elevan muy por encima del mayor primo identificado hasta la fecha.
 
