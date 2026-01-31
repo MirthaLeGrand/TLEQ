@@ -9,3 +9,23 @@ Gant se graduó en Quantico hace seis años y todavía está relativamente verde
 Gant es **profundamente religioso (ortodoxo griego)** y cree en cosas invisibles. **Solo hay una cosa que le desagrada de Canor: su falta de fe en cualquier religión. El padre de Gant solía decir: “Nunca confíes en un hombre sin religión”, y hasta cierto punto esa desconfianza se hace evidente en la relación de Gant con su supervisor. Gant nunca terminó de congeniar con Canor tanto como Canor congenió con él.**
 
 Incorporar a Gant a Delta Green es una opción viable, especialmente si los Agentes se le acercan a través de operativos de Delta Green en Quantico que alguna vez fueron sus profesores. Si es expuesto a la conspiración de ese modo (o, más probablemente, al hecho de que el gobierno tiene un brazo dedicado a la investigación de lo sobrenatural), Gant hará cualquier cosa por formar parte de ella.
+
+---
+
+**Agente Especial William Gant**
+
+Agente del FBI en ascenso, dispuesto a creer.  
+Hombre blanco, 31 años.
+
+**Agente Especial Gant**  
+**FUE** 10 **CON** 12 **DES** 9 **INT** 12 **POD** 10 **CAR** 10  
+**PV** 11 **VP** 10 **SAN** 50 **PUNTO DE QUIEBRE** 40
+
+**HABILIDADES:**  
+Alerta 45%, Conducir 40%, Armas de Fuego 60%,  
+HUMINT 50%, Derecho 51%, Persuasión 40%,  
+Sigilo 45%, Combate sin Armas 55%.
+
+**ATAQUES:**  
+Sin armas 55%, daño 1D4−1.  
+Pistola Glock 22 60%, daño 1D10.

@@ -8,7 +8,30 @@ Por supuesto, tendrá acceso a la secuencia de números encontrada en la escena 
 
 **Quienes tengan acceso directo a ella (es decir, Agentes dentro de la investigación) notan el cambio con rapidez.**
 
+---
+
+**Dra. Sarah Comox**
+
+Criptoanalista del FBI.  
+Mujer blanca, 34 años.
+
+**Dra. Comox**  
+**FUE** 9 **CON** 10 **DES** 7 **INT** 15 **POD** 6 **CAR** 9  
+**PV** 10 **VP** 6 **SAN** 30 **PUNTO DE QUIEBRE** 24
+
+**HABILIDADES:**  
+Contabilidad 55%, Alerta 60%,  
+Ciencia de la Computación 60%, Conducir 40%,  
+Armas de Fuego 40%, HUMINT 40%, Derecho 35%,  
+Ciencia (Matemáticas) 55%, Ciencia (Física) 30%,  
+SIGINT 60%, Combate sin Armas 50%.
+
+**ATAQUES:**  
+Sin armas 50%, daño 1D4−1.
+
+---
 ## TIMELINE
+
 ---
 
  A continuación se presenta un calendario aproximado de la participación de la doctora Comox en la operación. Ajustalo según las necesidades de tu partida.
@@ -51,7 +74,7 @@ Es evidente que Comox ha perdido el control. Si es detenida, continúa deterior�
 
 #### Día 4
 
-Comox no se presenta a reportarse, y un policía estatal es enviado a su habitación para localizarla. La puerta está sin llave. Los restos arruinados de su laptop aparecen chamuscados dentro de una papelera metálica, junto con pedazos de papel que aparentemente fueron incendiados con combustible en la vereda exterior (para no activar la alarma contra incendios).
+Comox no se presenta a reportarse, y **un policía estatal** es enviado a su habitación para localizarla. La puerta está sin llave. Los restos arruinados de su laptop aparecen chamuscados dentro de una papelera metálica, junto con pedazos de papel que aparentemente fueron incendiados con combustible en la vereda exterior (para no activar la alarma contra incendios).
 
 Su auto sigue en el estacionamiento. Sus tarjetas de crédito no muestran uso. La desaparición es reportada a la central del FBI y se emite una alerta.
 
