@@ -29,6 +29,7 @@ AGUJEROS MIOS:
 
 
 	Final del Dia 1.
+
 	Avanzar reloj de [[Sarah Comox (Consultora Mat. FBI)]]
 	
 
@@ -72,21 +73,21 @@ Gant se queda parado.
 
 Se lo ve jovial, honesto.
 
-> _Que encontraron? Motivo? Conexion con la victima?_
+> _Que encontraron? Motivo? Conexion con la victima? Cuales son sus proximos pasos? En que podemos asistir con el agente Gant?
 
-Dejar que le hablen o le mientan. Si siente que le mienten (HUMINT 60%) se preocupa por ellos, y empieza a ponerse pesado. Cae con birras al motel, quiere hablar de sus problemas. 
+Dejar que le hablen o le mientan. Si siente que le mienten (HUMINT 60%) se preocupa por ellos, y empieza a ponerse pesado. Cae con birras al motel, quiere hablar de sus problemas. Va a llamar al final de cada dia, para preguntar avances. 
 
 ---
 
 ## La proxima mañana
 
-Alguna escena mundana, a alguno lo llama un contacto, su familia, etc. 
+Alguna escena mundana, a alguno lo llama un contacto, su familia, etc. Un breve llamado de Canor, con un poco de familiaridad excesiva, les pregunta si se quieren juntar para desayunar. No pasa mucho en ese momento. 
 
 ---
 
 ### Caminos posibles:
 
-SARAH COMOX 
+### SARAH COMOX 
 
 [[Sarah Comox (Consultora Mat. FBI)]] está infectada. Al principio del proximo dia (2) vuelve a la escena del crimen y hace lo siguiente:
 
@@ -121,9 +122,31 @@ Después de una hora y veintitrés minutos de esto, parece satisfecha y vuelve a
 
 Es evidente que Comox ha perdido el control. Si es detenida, continúa deteriorándose y nunca se recupera. **Intenta escapar para llevar a cabo sus planes del Día 5.**
 
+---
 
-LA ESCOPETA 
+### [[La escopeta]]
 
+Si van al [[Precinto 24]], NY, y van a la jaula de equipamiento, esta de turno [[Marvin Herrera (NYPD)]]. Al principio es respetuoso y cordial, pero a medida que empieza a intuir que es un sospechoso, levanta la guardia. 
+
+Afirma con absoluta seguridad que no bajo la guardia ni por un segundo, que es absolutamente imposible que haya un arma faltante. 
+
+> SI LOS AGENTES NO LO SUGIEREN, HERRERA SUGIERE LAS CAMARAS, A MENOS DE QUE ENTIENDE DE QUE ESTEN BUSCANDO UN ARMA HOMICIDA. EN ESE CASO, INMEDIATAMENTE PIDE UN ABOGADO DEL SINDICATO PRESENTE.
+
+
+---
+
+## El hilo suelto
+
+[[Tia Markell (mail list)]], esta infectada y cerca de los agentes. Si ellos llaman a delta green o si mandan la lista de mail (mencionarlas a los jugadores), recordar proyectar sobre un lazo.
+
+MECANICA
+
+Cuando perdes SAN, y queres proyectar sobre un bond
+
+Tiras 1d4
+Se pierde esa cantidad de WP, se reduce la SAN perdida por el mismo numero, se baja un BOND por el mismo numero. 
+
+Preguntar como se expresa esta proyeccion la proxima vez que se cruce con el bond. 
 
 # Encounters
 ### Paranoia
