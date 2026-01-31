@@ -26,7 +26,9 @@ Si los Agentes no lo consideran por su cuenta, Herrera sugiere que **las cámara
 
 ## El registro de las cámaras
 
-Si mantienen una relación cordial con la policía, los Agentes pueden examinar las grabaciones de las numerosas cámaras que registraron **todas las entradas y salidas del Precinto 24** el día de los asesinatos. Una tirada de **Alerta** permite detectar a **Michael Wei**, captado por la cámara de la entrada principal, esperando al otro lado de la calle **20 minutos antes** de que Herrera informe haberse alejado. Wei está de pie con una bolsa deportiva visiblemente vacía y **consulta su reloj repetidas veces**.
+Si mantienen una relación cordial con la policía, los Agentes pueden examinar las grabaciones de las numerosas cámaras que registraron **todas las entradas y salidas del Precinto 24** el día de los asesinatos.
+#roll
+Una tirada de **Alerta** permite detectar a **Michael Wei**, captado por la cámara de la entrada principal, esperando al otro lado de la calle **20 minutos antes** de que Herrera informe haberse alejado. Wei está de pie con una bolsa deportiva visiblemente vacía y **consulta su reloj repetidas veces**.
 
 De repente cruza la calle hacia la entrada oeste del estacionamiento, **15 segundos antes** de que un perro pequeño aparezca en otra cámara y sea atropellado por un patrullero.
 
