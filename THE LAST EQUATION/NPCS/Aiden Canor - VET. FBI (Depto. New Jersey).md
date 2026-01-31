@@ -9,3 +9,24 @@ Canor es un supervisor afable que deposita su confianza en quienes se la ganan. 
 Canor **no cree en lo antinatural** bajo casi ninguna circunstancia. Incluso una experiencia directa con efectos mágicos la interpreta con desdén, como algún tipo de engaño complejo. **Su mente simplemente no contempla esa posibilidad.**
 
 Si los Agentes intentan incorporar a Canor a Delta Green, rápidamente se vuelve evidente que fue un gran error. Si Canor descubre la conspiración, nada menos que una amenaza directa e inequívoca contra su familia logrará detenerlo. Y una amenaza así lo convierte en un enemigo de por vida. A partir de ese momento, hace de su carrera una cruzada personal para desenmascarar a Delta Green y llevar a los Agentes ante la justicia.
+
+--- 
+
+#### **Agente Especial Supervisor del FBI**  
+##### **Aiden Canor**
+
+Veterano del FBI. Hombre afroamericano, 47 años.
+
+**Agente Especial Canor**  
+**FUE** 15 **CON** 11 **DES** 9 **INT** 14 **POD** 11 **CAR** 10  
+**PV** 13 **VP** 11 **SAN** 55 **PUNTO DE QUIEBRE** 44
+
+**HABILIDADES:**  
+Contabilidad 31%, Alerta 40%, Burocracia 50%,  
+Conducir 45%, Armas de Fuego 60%, HUMINT 60%,  
+Derecho 50%, Persuasión 60%, Buscar 40%, Sigilo 41%,  
+Combate sin Armas 65%.
+
+**ATAQUES:**  
+Sin armas 65%, daño 1D4.  
+Pistola Glock 20 60%, daño 1D10.
