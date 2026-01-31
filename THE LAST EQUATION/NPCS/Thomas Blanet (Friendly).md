@@ -13,3 +13,24 @@ Si se enfrenta a una amenaza antinatural, Blanet actúa según el reglamento, si
 Blanet carga con cierto bagaje. Su relación con el Grupo se remonta a casi 20 años atrás, durante la tristemente célebre masacre de Tiem, un ataque contra una docena de hombres de origen vietnamita perpetrado por una banda desconocida. Blanet afirmó haber recibido un golpe en la cabeza y no recordar ningún detalle del tiroteo que estalló. Los investigadores dijeron que Blanet se congeló en el cumplimiento del deber, lo que le costó la vida al oficial de policía de Alliance Morris O’Dell. Blanet fue exonerado, pero quedó en el radar de las noticias locales. Más tarde fue diagnosticado y tratado por trastorno de estrés postraumático.
 
 Blanet hará todo lo que esté a su alcance por Delta Green. Maniobrar habría sido fácil si los asesinatos Ridgeway hubieran sido una noticia menor y abstracta. Durante unos diez minutos, lo fueron. Ya no.
+
+---
+
+**Agente Estatal Thomas Blanet**
+
+Agente de la Policía Estatal de Nueva Jersey y aliado de Delta Green.  
+Hombre blanco, 49 años.
+
+**Agente Blanet**  
+**FUE** 13 **CON** 11 **DES** 10 **INT** 11 **POD** 9 **CAR** 11  
+**PV** 12 **VP** 9 **SAN** 42 **PUNTO DE QUIEBRE** 36
+
+**HABILIDADES:**  
+Alerta 50%, Conducir 60%, Armas de Fuego 54%,  
+Derecho 35%, Navegación 53%, Persuasión 49%,  
+Sigilo 50%, Supervivencia 33%, Combate sin Armas 55%.
+
+**ATAQUES:**  
+Sin armas 55%, daño 1D4−1.  
+Pistola Glock 19 54%, daño 1D10.  
+Carabina Colt AR-15 54%, daño 1D12, Perforación de Armadura 3.
