@@ -139,15 +139,27 @@ Afirma con absoluta seguridad que no bajo la guardia ni por un segundo, que es a
 
 [[Tia Markell (mail list)]], esta infectada y cerca de los agentes. Si ellos llaman a delta green o si mandan la lista de mail (mencionarlas a los jugadores), recordar proyectar sobre un lazo.
 
-MECANICA
 
-Cuando perdes SAN, y queres proyectar sobre un bond
+	MECANICA
 
-Tiras 1d4
-Se pierde esa cantidad de WP, se reduce la SAN perdida por el mismo numero, se baja un BOND por el mismo numero. 
+	Cuando perdes SAN, y queres proyectar sobre un bond
 
-Preguntar como se expresa esta proyeccion la proxima vez que se cruce con el bond. 
+	Tiras 1d4
+	Se pierde esa cantidad de WP, se reduce la SAN perdida por el mismo numero,       se baja un BOND por el mismo numero. 
 
+	Preguntar como se expresa esta proyeccion la proxima vez que se cruce con el      bond. 
+
+Tia ya esta bajo los efectos de la solución. Tiene un +40 a pursuit al saber precisamente que movimientos tomar cuando vayan los agentes. Si alguno se da cuenta que aparentemente esta decision propia este completamente predicha, SAN roll, 1-1d4.
+
+Si la approachean amablemente, se la ve bien, cooperativa. Es profesora de matematica de universidad, pero actualmente haciendo una suplencia en la escuela publica 149. No deja a los agentes entrar a su casa. 
+
+Si fuerzan la entrada, huye. La ventana esta preparada con una soga de sabanas, aguanta precisamente su peso y se parte si un agente mas pesado que ella lo toma. 
+
+Si algun agente investiga la casa, ve papeles por todos lados, ecuaciones escritas con frenesi en cuadernos, remarcados en rojo, partes con un circulo rojo dibujado con intensidad, parece que el marcador se rompió. En el esta el resultado de dos numeros. 16.19. 333.13 15.35
+
+> Una busqueda con bureaucracy 40% o roll con +20% en la base de datos de NYPD muestra un llamado reciente a NYPD de un familiar de Merkell, Ian (Tio) preocupado, que desconoce el paradero de una escopeta de caza y un rifle m1 garand, que era de su abuelo. Ella todavia no es un sospechoso. 
+
+> Esa misma tarde, si la pierden, ella irrumpe con un bolso negro, y comete un tiroteo en la escuela. Los agentes pueden intervenir, o no. Al final, camina hacia la caldera de la escuela, se rocia con nafta, y salta se inmola. 
 # Encounters
 ### Paranoia
 
