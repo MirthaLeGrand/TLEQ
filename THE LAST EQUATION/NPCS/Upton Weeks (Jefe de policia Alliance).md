@@ -7,3 +7,26 @@ Weeks es un hombre de familia con dos hijos, y su esposa, Emily, tiene fama de s
 > **Su mayor preocupación es conservar su puesto**. Quiere mantenerse lo suficientemente cerca como para saber qué está pasando (y quizá **atribuirse algo de crédito**), pero lo bastante lejos como para poder señalar con el dedo si las cosas salen mal.
 
 El Agente Especial Canor es lo bastante astuto como para incluir a Weeks en los eventos de prensa y presentarlo de forma positiva. Eso convierte a **Weeks en una marioneta de Canor en casi todos los sentidos.**
+
+
+---
+
+
+**Jefe de Policía Upton Weeks**
+
+Jefe de policía de Alliance, Nueva Jersey.  
+Un operador político encantador.  
+Hombre blanco, 41 años.
+
+**Jefe Weeks**  
+**FUE** 10 **CON** 10 **DES** 15 **INT** 16 **POD** 8 **CAR** 16  
+**PV** 10 **VP** 8 **SAN** 40 **PUNTO DE QUIEBRE** 32
+
+**HABILIDADES:**  
+Alerta 40%, Oficio (Mecánica) 45%, Conducir 50%,  
+Armas de Fuego 45%, Derecho 30%, Persuasión 70%,  
+Combate sin Armas 55%.
+
+**ATAQUES:**  
+Sin armas 55%, daño 1D4−1.  
+Pistola SIG Sauer P226 45%, daño 1D10.
