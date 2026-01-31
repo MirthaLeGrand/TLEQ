@@ -35,11 +35,28 @@ Las Preguntas:
 - “¿Usted dormiría tranquilo si su familia viviera en esa casa?”- 
 
 
-
-
 CUANDO SE ESTA YENDO, ULTIMAS PREGUNTAS
 
 - “Entonces, para que quede claro: ¿no hay peligro para el público?”
 - “¿Descarta completamente que haya más víctimas?”
 - “¿Puede garantizar que esto termina acá?”
 - “¿Podemos esperar un comunicado oficial hoy?”
+
+---
+
+**Enrico Savé**
+
+Reportero de televisión — _el rostro del norte de Nueva Jersey_.  
+Hombre hispano, 41 años.
+
+**Enrico Savé**  
+**FUE** 10 **CON** 12 **DES** 12 **INT** 12 **POD** 10 **CAR** 17  
+**PV** 11 **VP** 10 **SAN** 50 **PUNTO DE QUIEBRE** 40
+
+**HABILIDADES:**  
+Alerta 55%, Arte (Entrevista Emocional) 70%,  
+Conducir 30%, HUMINT 50%, Persuasión 80%,  
+Combate sin Armas 57%.
+
+**ATAQUES:**  
+Sin armas 57%, daño 1D4−1.
