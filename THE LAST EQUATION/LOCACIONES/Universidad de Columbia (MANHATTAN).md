@@ -201,6 +201,6 @@ Este fracaso llevó a Wei a buscar **acertijos matemáticos ingeniosos** y soluc
 
 ## La escopeta
 
-Los Agentes probablemente quieran saber **cómo y dónde** Wei consiguió una escopeta policial. No existen registros de que Wei haya comprado armas en la región triestatal, y el arma está registrada a nombre del **NYPD**. Ver **INVESTIGANDO LA ESCOPETA**, página 80, para más detalles.
+Los Agentes probablemente quieran saber **cómo y dónde** Wei consiguió una escopeta policial. No existen registros de que Wei haya comprado armas en la región triestatal, y el arma está registrada a nombre del **NYPD**. Ver **[[La escopeta|INVESTIGANDO LA ESCOPETA]]**, página 80, para más detalles.
 
 En verdad, la **Ecuación de Laqueus “le dijo” a Wei** dónde encontrar el arma y qué debía hacer con ella.
